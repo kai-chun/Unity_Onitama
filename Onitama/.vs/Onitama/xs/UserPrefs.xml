@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{4E50082E-D837-9F08-5F4A-1BE5DBBF1FB3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MouseCtrl.cs">
+    <Files>
+      <File FileName="Assets/CardsCtrl.cs" Line="9" Column="9" />
+      <File FileName="Assets/GameCard.cs" Line="7" Column="4" />
+      <File FileName="Assets/UIManagerScript.cs" Line="15" Column="35" />
+      <File FileName="Assets/ButtonCtrl.cs" Line="21" Column="9" />
+      <File FileName="Assets/MouseCtrl.cs" Line="20" Column="24" />
+      <File FileName="Assets/SceneManager.cs" Line="36" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Onitama PreferredExecutionTarget="Unity.Editor" />
+</Properties>
